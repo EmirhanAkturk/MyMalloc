@@ -1,7 +1,6 @@
 /*
     My Memory Allocation
     Emirhan Aktürk
-    19120205058
     
     External fragmentation en fazla worst fit-te olur.Çunku her seferinde en buyuk blok bulunur ve eger istenilen alana esit degilse split edilir.(Genelde esit olmaz)
     ikinci olarak first fit-te olur.Ilk uygun blok aranir.Genelde aranan ile bulunan blokların size farki worst fit e kiyasla daha az olur.
